@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🤔 Am I thinking or is my head blank?
 
 <!--
 **Zengan420/Zengan420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
