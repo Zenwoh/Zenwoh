@@ -1,6 +1,7 @@
-### 🤔 Am I thinking or is my head blank?
+### Hi 👋
 
-Who am I kidding, everyone knows my head is empty.
+No idea about what to put here yet :(
+But I'm looking for an internship!
 
 <!--
 **Zengan420/Zengan420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
