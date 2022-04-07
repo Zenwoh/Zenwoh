@@ -1,19 +1,14 @@
 ### Hi 👋
 
-No idea about what to put here yet :(
-But I'm looking for an internship!
+Welcome to the most boring GitHub profile there is.
 
+- 🔭 I’m currently working on a Django project at my internship
+- 🌱 I’m currently learning Django and some server setup stuff
+- 🤔 I’m looking for help with designing my personal/CV website, I want it to be cool, like really cool
+- 💬 Ask me about video games in general (not about developpement though, that would be boring)
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: Discord: Zenwoh#7303
+- ⚡ Fun fact: I don't find myself fun, I think I have poor social skills. Trying my best to be better though!
 <!--
-**Zengan420/Zengan420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
