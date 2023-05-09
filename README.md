@@ -2,13 +2,13 @@
 
 Welcome to the most boring GitHub profile there is.
 
-- 🔭 I’m currently working on a Django project at my internship
-- 🌱 I’m currently learning Django and some apache2 stuff
+- 🔭 I’m currently working on too many things
+- 🌱 I’m currently learning Game Dev and stuff related to work things
 - 🤔 I’m looking for help with designing my personal website (CV kind of website)
 - 💬 Ask me about video games in general
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: Discord: Zenwoh#7303; Twitter: Zenwoh
-- ⚡ Fun fact: I have more knowledge about League of Legends than I have skill in playing the game
+- ⚡ Fun fact: My sleep schedule is literally non existant right now :)
 <!--
 - 👯 I’m looking to collaborate on ...
 -->
