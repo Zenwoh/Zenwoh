@@ -7,7 +7,7 @@ Welcome to the most boring GitHub profile there is.
 - 🤔 I’m looking for help with designing my personal website (CV kind of website)
 - 💬 Ask me about video games in general
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: Discord: Zenwoh#7303; Twitter: Zenwoh
+- 📫 How to reach me: Discord: Zenwoh; Twitter: Zenwoh
 - ⚡ Fun fact: My sleep schedule is literally non existant right now :)
 <!--
 - 👯 I’m looking to collaborate on ...
