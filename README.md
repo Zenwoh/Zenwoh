@@ -2,8 +2,8 @@
 
 Welcome to the most boring GitHub profile there is.
 
-- 🔭 I’m currently working on too many things
-- 🌱 I’m currently learning Game Dev and stuff related to work things
+- 🔭 I’m currently working on a 3D web app
+- 🌱 I’m currently learning Game Dev, Qt and 3D on the web (all three not related)
 - 🤔 I’m looking for help with designing my personal website (CV kind of website)
 - 💬 Ask me about video games in general
 - 😄 Pronouns: He/Him
