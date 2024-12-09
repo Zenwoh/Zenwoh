@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Welcome to the most boring GitHub profile there is.
+Welcome to my GitHub profile
 
 - 🔭 I’m currently working on a 3D web app
 - 🌱 I’m currently learning Game Dev, Qt and 3D on the web (all three not related)
